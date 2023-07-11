@@ -1,5 +1,5 @@
 <template>
-  <item-card class="mt-3"></item-card>
+  <ItemCard></ItemCard>
 </template>
 
 <script>

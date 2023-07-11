@@ -11,8 +11,11 @@ import { RouterLink, RouterView } from 'vue-router'
       <div class="mx-4">
         <RouterLink to="/about">About</RouterLink>
       </div>
-      <div>
+      <div class="mx-4">
         <RouterLink to="/generators">Generators</RouterLink>
+      </div>
+      <div class="mx-4">
+        <RouterLink to="/icons">Icons</RouterLink>
       </div>
     </nav>
   </header>
