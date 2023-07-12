@@ -2,7 +2,7 @@
   {
     "name": "lordicons",
     "url": "https://lordicon.com/",
-    "image": "../public/images/lordicon.JPG",
+    "image": "/images/lordicon.JPG",
     "firstBadge": "Icons",
     "secondBadge": "Animated"
   }
