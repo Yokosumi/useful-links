@@ -5,6 +5,7 @@
     </figure>
     <div class="card-body">
       <h2 class="card-title">
+        {{ data }}
         {{ jasonData[0].name }}
         <div class="badge badge-secondary">{{ jasonData[0].firstBadge }}</div>
         <div class="badge badge-primary">{{ jasonData[0].secondBadge }}</div>
