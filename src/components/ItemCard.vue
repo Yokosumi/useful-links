@@ -5,7 +5,7 @@
     </figure>
     <div class="card-body">
       <h2 class="card-title">
-        {{ jasonData.name }}
+        {{ jasonData[0].name }}
         <div class="badge badge-secondary">Icons</div>
         <div class="badge badge-primary">Animated</div>
       </h2>
