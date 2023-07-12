@@ -1,7 +1,7 @@
 <template>
   <div class="card w-96 bg-base-100 shadow-xl mt-3">
     <figure>
-      <a href="#"><img src="../public/images/lordicon.JPG" alt="preview" /> </a>
+      <a :href="jasonData[0].url"><img src="" alt="preview" /> </a>
     </figure>
     <div class="card-body">
       <h2 class="card-title">

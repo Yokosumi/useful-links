@@ -1,8 +1,8 @@
 [
   {
     "name": "lordicons",
-    "url": "link",
-    "image": "../public/imges/lordicon.JPG",
+    "url": "https://lordicon.com/",
+    "image": "../public/images/lordicon.JPG",
     "firstBadge": "Icons",
     "secondBadge": "Animated"
   }
