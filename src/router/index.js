@@ -6,7 +6,6 @@ import IconsView from '../views/IconsView.vue'
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
-  useEslint: false,
   routes: [
     {
       path: '/home',

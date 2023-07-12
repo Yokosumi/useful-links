@@ -1,5 +1,6 @@
 <script setup>
 import { RouterLink, RouterView } from 'vue-router'
+import TestingJSX from './components/testingJSX.vue'
 </script>
 
 <template>
@@ -19,6 +20,6 @@ import { RouterLink, RouterView } from 'vue-router'
       </div>
     </nav>
   </header>
-
+  <TestingJSX></TestingJSX>
   <RouterView />
 </template>
